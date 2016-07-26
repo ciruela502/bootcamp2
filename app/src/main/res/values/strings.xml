@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Bootcamp2</string>
+    <string name="app_name">Wyślij maila</string>
+    <string name="temat">Temat:</string>
+    <string name="tre">Treść:</string>
+    <string name="adresat">Adresat:</string>
 </resources>
